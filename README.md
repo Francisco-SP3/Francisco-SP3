@@ -23,8 +23,8 @@
 ## My stats 📊
 
 <div align ="center">
-  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=FSP3&show_icons=true&locale=en&layout=compact&theme=holi" width="400"/> </p>
-  <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Francisco-SP3&show_icons=true&locale=en&theme=holi"  width="400" /> </p>
+  <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Francisco-SP3&show_icons=true&locale=en&theme=holi"  width="400" /> </p>
+  <p> <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=FSP3&show_icons=true&locale=en&layout=compact&theme=holi" width="400"/> </p>
 </div>
 
 <!--
