@@ -1,16 +1,24 @@
-## Hi there, I'm Francisco 👋
+## Hi there, I'm Francisco :wave:
 
 - :school_satchel: I'm studying Robotics and Digital Systems Engineering at Tec de Monterrey
+
 - :telescope: I aspire to develop unstructured colaborative robots
+
 - :seedling: I’m currently learning Non-Linear Systems and Control
+
 - :+1: Fun fact: I've got a hitchhicker's thumb!
+
+<!-- - :briefcase: Learn more about my work in my [portfolio](https://Francisco-SP3.github.io/portfolio/) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Francisco-SP3&theme=discord&column=7&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My skills 💪
 
 #### Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,py,js,c,rust,latex,matlab)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,py,js,matlab,latex)](https://skillicons.dev)
+
+#### Tools
+[![Tools](https://skillicons.dev/icons?i=apple,windows,linux,docker,git,vscode,powershell,bash,arduino)](https://skillicons.dev)
 
 ## My stats 📊
 
