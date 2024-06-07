@@ -1,6 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-SP3&show_icons=true&theme=holi)
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=FSP3&show_icons=true&locale=en&layout=compact&theme=holi" height="100"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Francisco-SP3&show_icons=true&locale=en&theme=holi"  height="170" /></p>
+</div>
 
 <!--
 **Francisco-SP3/Francisco-SP3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
