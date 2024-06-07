@@ -18,7 +18,7 @@
 [![Languages](https://skillicons.dev/icons?i=c,cpp,py,js,matlab,latex)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,docker,git,github,vscode,visualstudio,powershell,bash,ros,react,tailwind,vercel,opencv,processing,sklearn,postman,raspberrypi,arduino)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,docker,git,github,vscode,visualstudio,powershell,bash,ros,react,tailwind,vercel,processing,opencv,sklearn,postman,raspberrypi,arduino)](https://skillicons.dev)
 
 ## My stats 📊
 
